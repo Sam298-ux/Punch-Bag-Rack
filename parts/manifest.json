@@ -1,0 +1,608 @@
+{
+ "schema": "evolve-parts/1",
+ "note": "Files keep the native scale of the app (some parts are in metres, others in millimetres - see unitInFile). ref = Evolve part reference code. Black metal finish unified (colour 161921, roughness 0.35, metalness 0).",
+ "parts": [
+  {
+   "ref": "EV-CM-UP-195",
+   "name": "Upright1",
+   "file": "EV-CM-UP-195 - Upright1.glb",
+   "payloadKey": "upright",
+   "bytes": 85620,
+   "unitInFile": "m",
+   "bboxMm": [
+    219.9,
+    1947.4,
+    449.6
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-UP-195 - Upright1.glb"
+  },
+  {
+   "ref": "EV-CM-UB-195",
+   "name": "Upright2",
+   "file": "EV-CM-UB-195 - Upright2.glb",
+   "payloadKey": "uprightBridge",
+   "bytes": 252676,
+   "unitInFile": "m",
+   "bboxMm": [
+    220,
+    1945,
+    500
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-UB-195 - Upright2.glb"
+  },
+  {
+   "ref": "EV-CM-AS-116",
+   "name": "Angle Side Part",
+   "file": "EV-CM-AS-116 - Angle Side Part.glb",
+   "payloadKey": "brace",
+   "bytes": 20300,
+   "unitInFile": "m",
+   "bboxMm": [
+    680.7,
+    76,
+    1156.5
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-AS-116 - Angle Side Part.glb"
+  },
+  {
+   "ref": "EV-CM-AP-093",
+   "name": "Angle Part1",
+   "file": "EV-CM-AP-093 - Angle Part1.glb",
+   "payloadKey": "anglePart",
+   "bytes": 119068,
+   "unitInFile": "m",
+   "bboxMm": [
+    88,
+    925.5,
+    1177.7
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-AP-093 - Angle Part1.glb"
+  },
+  {
+   "ref": "EV-CM-AB-102",
+   "name": "Angle Part2",
+   "file": "EV-CM-AB-102 - Angle Part2.glb",
+   "payloadKey": "anglePartBridge",
+   "bytes": 66380,
+   "unitInFile": "mm",
+   "bboxMm": [
+    86,
+    1023.6,
+    744.8
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-AB-102 - Angle Part2.glb"
+  },
+  {
+   "ref": "EV-CM-BT-060",
+   "name": "Ball Target",
+   "file": "EV-CM-BT-060 - Ball Target.glb",
+   "payloadKey": "ballTarget",
+   "bytes": 1122128,
+   "unitInFile": "m",
+   "bboxMm": [
+    259.8,
+    645.1,
+    439.9
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BT-060 - Ball Target.glb"
+  },
+  {
+   "ref": "EV-CM-DH-156",
+   "name": "Dumbbell Holder",
+   "file": "EV-CM-DH-156 - Dumbbell Holder.glb",
+   "payloadKey": "dumbbellHolder",
+   "bytes": 438728,
+   "unitInFile": "m",
+   "bboxMm": [
+    106,
+    1560.9,
+    119.3
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-DH-156 - Dumbbell Holder.glb"
+  },
+  {
+   "ref": "EV-CM-BB-183",
+   "name": "Boxing Bag",
+   "file": "EV-CM-BB-183 - Boxing Bag.glb",
+   "payloadKey": "boxingBag",
+   "bytes": 175416,
+   "unitInFile": "m",
+   "bboxMm": [
+    405.8,
+    2173.4,
+    405.8
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BB-183 - Boxing Bag.glb"
+  },
+  {
+   "ref": "EV-CM-BB-078",
+   "name": "Boxing Bag Spherical",
+   "file": "EV-CM-BB-078 - Boxing Bag Spherical.glb",
+   "payloadKey": "boxingBagSpherical",
+   "bytes": 350756,
+   "unitInFile": "mm",
+   "bboxMm": [
+    777.2,
+    1374.9,
+    777.8
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BB-078 - Boxing Bag Spherical.glb"
+  },
+  {
+   "ref": "EV-CM-BB-135",
+   "name": "Boxing Bag T-shape",
+   "file": "EV-CM-BB-135 - Boxing Bag T-shape.glb",
+   "payloadKey": "boxingBagTShape",
+   "bytes": 230072,
+   "unitInFile": "mm",
+   "bboxMm": [
+    539.6,
+    1883.2,
+    538.1
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BB-135 - Boxing Bag T-shape.glb"
+  },
+  {
+   "ref": "EV-CM-BB-055",
+   "name": "Boxing Bag Water Filled",
+   "file": "EV-CM-BB-055 - Boxing Bag Water Filled.glb",
+   "payloadKey": "boxingBagWaterFilled",
+   "bytes": 174872,
+   "unitInFile": "mm",
+   "bboxMm": [
+    546.7,
+    1249.7,
+    546.8
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BB-055 - Boxing Bag Water Filled.glb"
+  },
+  {
+   "ref": "EV-CM-BB-120",
+   "name": "Boxing Bag 120x45",
+   "file": "EV-CM-BB-120 - Boxing Bag 120x45.glb",
+   "payloadKey": "metalClamp120x45",
+   "bytes": 128020,
+   "unitInFile": "mm",
+   "bboxMm": [
+    449.9,
+    1646.1,
+    449.9
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BB-120 - Boxing Bag 120x45.glb"
+  },
+  {
+   "ref": "EV-CM-HB-107",
+   "name": "Horizontal Beam with Holes Short",
+   "file": "EV-CM-HB-107 - Horizontal Beam with Holes Short.glb",
+   "payloadKey": "horizontalBeamShort",
+   "bytes": 52012,
+   "unitInFile": "mm",
+   "bboxMm": [
+    203,
+    74.9,
+    1061.2
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-HB-107 - Horizontal Beam with Holes Short.glb"
+  },
+  {
+   "ref": "EV-CM-HB-178",
+   "name": "Horizontal Beam with Holes Long",
+   "file": "EV-CM-HB-178 - Horizontal Beam with Holes Long.glb",
+   "payloadKey": "horizontalBeam",
+   "bytes": 30836,
+   "unitInFile": "m",
+   "bboxMm": [
+    203,
+    75,
+    1776.6
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-HB-178 - Horizontal Beam with Holes Long.glb"
+  },
+  {
+   "ref": "EV-CM-SW-107",
+   "name": "Shelve for Weights 1067 x 200",
+   "file": "EV-CM-SW-107 - Shelve for Weights 1067 x 200.glb",
+   "payloadKey": "shelfShort",
+   "bytes": 14360,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1065.1,
+    122,
+    258.2
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-SW-107 - Shelve for Weights 1067 x 200.glb"
+  },
+  {
+   "ref": "EV-CM-SW-178",
+   "name": "Shelve for Weights 1777 x 200",
+   "file": "EV-CM-SW-178 - Shelve for Weights 1777 x 200.glb",
+   "payloadKey": "shelfLong",
+   "bytes": 14152,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1776.6,
+    122,
+    258.2
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-SW-178 - Shelve for Weights 1777 x 200.glb"
+  },
+  {
+   "ref": "EV-CM-HK-107",
+   "name": "Horizontal With Hooks",
+   "file": "EV-CM-HK-107 - Horizontal With Hooks.glb",
+   "payloadKey": "hook",
+   "bytes": 179244,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1067.1,
+    234.2,
+    119.5
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-HK-107 - Horizontal With Hooks.glb"
+  },
+  {
+   "ref": "EV-CM-AH-107",
+   "name": "Horizontal for Adjustable Hook Mount",
+   "file": "EV-CM-AH-107 - Horizontal for Adjustable Hook Mount.glb",
+   "payloadKey": "adjHookRail",
+   "bytes": 13156,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1068,
+    203.2,
+    60
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-AH-107 - Horizontal for Adjustable Hook Mount.glb"
+  },
+  {
+   "ref": "EV-CM-AK-024",
+   "name": "Hook - Horizontal mount",
+   "file": "EV-CM-AK-024 - Hook - Horizontal mount.glb",
+   "payloadKey": "adjHook",
+   "bytes": 167244,
+   "unitInFile": "mm",
+   "bboxMm": [
+    100,
+    89,
+    242.4
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-AK-024 - Hook - Horizontal mount.glb"
+  },
+  {
+   "ref": "EV-CM-SP-107",
+   "name": "Shelve For Weight Plates",
+   "file": "EV-CM-SP-107 - Shelve For Weight Plates.glb",
+   "payloadKey": "shelfPlates",
+   "bytes": 97004,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1067.2,
+    203.4,
+    355.4
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-SP-107 - Shelve For Weight Plates.glb"
+  },
+  {
+   "ref": "EV-CM-TM-107",
+   "name": "Triple Monkey Bar Short",
+   "file": "EV-CM-TM-107 - Triple Monkey Bar Short.glb",
+   "payloadKey": "tripleMonkeyBarShort",
+   "bytes": 10824,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1068,
+    346.9,
+    391.6
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-TM-107 - Triple Monkey Bar Short.glb"
+  },
+  {
+   "ref": "EV-CM-TM-178",
+   "name": "Triple Monkey Bar Long",
+   "file": "EV-CM-TM-178 - Triple Monkey Bar Long.glb",
+   "payloadKey": "tripleMonkeyBar",
+   "bytes": 25176,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1776.6,
+    348.1,
+    391.2
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-TM-178 - Triple Monkey Bar Long.glb"
+  },
+  {
+   "ref": "EV-CM-SM-107",
+   "name": "Single Monkey Bar",
+   "file": "EV-CM-SM-107 - Single Monkey Bar.glb",
+   "payloadKey": "singleMonkeyBar",
+   "bytes": 12088,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1067.1,
+    138.2,
+    191.5
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-SM-107 - Single Monkey Bar.glb"
+  },
+  {
+   "ref": "EV-CM-DM-107",
+   "name": "Double Monkey Bar",
+   "file": "EV-CM-DM-107 - Double Monkey Bar.glb",
+   "payloadKey": "doubleMonkeyBar",
+   "bytes": 19064,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1068,
+    311.7,
+    208.7
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-DM-107 - Double Monkey Bar.glb"
+  },
+  {
+   "ref": "EV-CM-DB-107",
+   "name": "Double Monkey Bar (for Bridge) - Level",
+   "file": "EV-CM-DB-107 - Double Monkey Bar (for Bridge) - Level.glb",
+   "payloadKey": "dmbBridgeLevel",
+   "bytes": 13088,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1067.5,
+    50,
+    341.2
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-DB-107 - Double Monkey Bar (for Bridge) - Level.glb"
+  },
+  {
+   "ref": "EV-CM-DB-107",
+   "name": "Double Monkey Bar (for Bridge) - Tilt",
+   "file": "EV-CM-DB-107 - Double Monkey Bar (for Bridge) - Tilt.glb",
+   "payloadKey": "dmbBridgeTilt",
+   "bytes": 13092,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1067.5,
+    291.7,
+    241.2
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-DB-107 - Double Monkey Bar (for Bridge) - Tilt.glb"
+  },
+  {
+   "ref": "EV-CM-BR-380",
+   "name": "Bridge",
+   "file": "EV-CM-BR-380 - Bridge.glb",
+   "payloadKey": "bridge",
+   "bytes": 46332,
+   "unitInFile": "mm",
+   "bboxMm": [
+    75,
+    150.1,
+    3800
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BR-380 - Bridge.glb"
+  },
+  {
+   "ref": "EV-CM-HP-114",
+   "name": "H-Profile Short",
+   "file": "EV-CM-HP-114 - H-Profile Short.glb",
+   "payloadKey": "hProfileShort",
+   "bytes": 12400,
+   "unitInFile": "mm",
+   "bboxMm": [
+    100,
+    67.9,
+    1142.1
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-HP-114 - H-Profile Short.glb"
+  },
+  {
+   "ref": "EV-CM-HP-185",
+   "name": "H-Profile Long",
+   "file": "EV-CM-HP-185 - H-Profile Long.glb",
+   "payloadKey": "hProfileLong",
+   "bytes": 11972,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1851.5,
+    99.9,
+    68
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-HP-185 - H-Profile Long.glb"
+  },
+  {
+   "ref": "EV-CM-HC-110",
+   "name": "H-Profile Curved",
+   "file": "EV-CM-HC-110 - H-Profile Curved.glb",
+   "payloadKey": "hProfileCurved",
+   "bytes": 36564,
+   "unitInFile": "mm",
+   "bboxMm": [
+    663.5,
+    99.9,
+    1095.6
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-HC-110 - H-Profile Curved.glb"
+  },
+  {
+   "ref": "EV-CM-HU-212",
+   "name": "H-Profile U-Shape",
+   "file": "EV-CM-HU-212 - H-Profile U-Shape.glb",
+   "payloadKey": "hProfileUShape",
+   "bytes": 56836,
+   "unitInFile": "mm",
+   "bboxMm": [
+    100,
+    2116.2,
+    663.5
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-HU-212 - H-Profile U-Shape.glb"
+  },
+  {
+   "ref": "EV-CM-WP-045",
+   "name": "Attachment for Weight Pole",
+   "file": "EV-CM-WP-045 - Attachment for Weight Pole.glb",
+   "payloadKey": "attachmentWeightPole",
+   "bytes": 246908,
+   "unitInFile": "mm",
+   "bboxMm": [
+    441.5,
+    193,
+    190.4
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-WP-045 - Attachment for Weight Pole.glb"
+  },
+  {
+   "ref": "EV-CM-BH-011",
+   "name": "Single Bolt Hook",
+   "file": "EV-CM-BH-011 - Single Bolt Hook.glb",
+   "payloadKey": "singleBoltHook",
+   "bytes": 7620,
+   "unitInFile": "mm",
+   "bboxMm": [
+    104.9,
+    99.9,
+    74.9
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BH-011 - Single Bolt Hook.glb"
+  },
+  {
+   "ref": "EV-CM-WB-050",
+   "name": "Wall Bracket",
+   "file": "EV-CM-WB-050 - Wall Bracket.glb",
+   "payloadKey": "wallBracket",
+   "bytes": 16364,
+   "unitInFile": "mm",
+   "bboxMm": [
+    219.8,
+    499.6,
+    80.9
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-WB-050 - Wall Bracket.glb"
+  },
+  {
+   "ref": "EV-CM-MC-058",
+   "name": "Metal Clamp",
+   "file": "EV-CM-MC-058 - Metal Clamp.glb",
+   "payloadKey": "metalClamp",
+   "bytes": 1859548,
+   "unitInFile": "mm",
+   "bboxMm": [
+    382.3,
+    575.9,
+    138.9
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-MC-058 - Metal Clamp.glb"
+  },
+  {
+   "ref": "EV-CM-SW-110",
+   "name": "Shelve for Weights 1100 x 200",
+   "file": "EV-CM-SW-110 - Shelve for Weights 1100 x 200.glb",
+   "payloadKey": "shelfMid",
+   "bytes": 21136,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1100,
+    95,
+    260
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-SW-110 - Shelve for Weights 1100 x 200.glb"
+  },
+  {
+   "ref": "EV-CM-SD-110",
+   "name": "Shelve for Weights 1100 x 330",
+   "file": "EV-CM-SD-110 - Shelve for Weights 1100 x 330.glb",
+   "payloadKey": "shelf330",
+   "bytes": 11924,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1100,
+    89,
+    390.6
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-SD-110 - Shelve for Weights 1100 x 330.glb"
+  },
+  {
+   "ref": "EV-CM-SP-110",
+   "name": "Shelve For Weight Plates 1100",
+   "file": "EV-CM-SP-110 - Shelve For Weight Plates 1100.glb",
+   "payloadKey": "shelfPlatesMid",
+   "bytes": 45172,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1100,
+    209.9,
+    360
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-SP-110 - Shelve For Weight Plates 1100.glb"
+  },
+  {
+   "ref": "EV-CM-BK-110",
+   "name": "Basket 1100",
+   "file": "EV-CM-BK-110 - Basket 1100.glb",
+   "payloadKey": "basketMid",
+   "bytes": 1769096,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1112,
+    342.7,
+    424.3
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BK-110 - Basket 1100.glb"
+  },
+  {
+   "ref": "EV-CM-HK-110",
+   "name": "Horizontal With Hooks 1100",
+   "file": "EV-CM-HK-110 - Horizontal With Hooks 1100.glb",
+   "payloadKey": "hookMid",
+   "bytes": 53780,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1100,
+    265.8,
+    121.9
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-HK-110 - Horizontal With Hooks 1100.glb"
+  },
+  {
+   "ref": "EV-CM-DB-110",
+   "name": "Double Monkey Bar (for Bridge) 1100 - Level",
+   "file": "EV-CM-DB-110 - Double Monkey Bar (for Bridge) 1100 - Level.glb",
+   "payloadKey": "dmbBridgeMidLevel",
+   "bytes": 29360,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1100,
+    50,
+    341.2
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-DB-110 - Double Monkey Bar (for Bridge) 1100 - Level.glb"
+  },
+  {
+   "ref": "EV-CM-DB-110",
+   "name": "Double Monkey Bar (for Bridge) 1100 - Tilt",
+   "file": "EV-CM-DB-110 - Double Monkey Bar (for Bridge) 1100 - Tilt.glb",
+   "payloadKey": "dmbBridgeMidTilt",
+   "bytes": 30920,
+   "unitInFile": "mm",
+   "bboxMm": [
+    1100,
+    291.6,
+    241.4
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-DB-110 - Double Monkey Bar (for Bridge) 1100 - Tilt.glb"
+  },
+  {
+   "ref": "EV-CM-BD-030",
+   "name": "Double Bolt Hooks",
+   "file": "EV-CM-BD-030 - Double Bolt Hooks.glb",
+   "payloadKey": "doubleBoltHook",
+   "bytes": 16764,
+   "unitInFile": "mm",
+   "bboxMm": [
+    105,
+    100,
+    300
+   ],
+   "uncompressedFile": "../parts-uncompressed/EV-CM-BD-030 - Double Bolt Hooks.glb"
+  }
+ ]
+}
